@@ -1,4 +1,4 @@
-package _Chapter6.clone;
+package _Chapter6._6_4_clone;
 
 public class CloneTest {
   public static void main(String[] args) {

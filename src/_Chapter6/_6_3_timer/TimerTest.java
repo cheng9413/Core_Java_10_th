@@ -1,4 +1,4 @@
-package _Chapter6.timer;
+package _Chapter6._6_3_timer;
 
 import java.awt.Toolkit;
 import java.awt.event.ActionEvent;

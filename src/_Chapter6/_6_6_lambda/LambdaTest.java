@@ -1,4 +1,4 @@
-package _Chapter6.lambda;
+package _Chapter6._6_6_lambda;
 
 import java.util.Arrays;
 import java.util.Date;
